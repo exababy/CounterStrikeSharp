@@ -1,6 +1,6 @@
 [submodule "libraries/hl2sdk-cs2"]
 	path = libraries/hl2sdk-cs2
-	url = https://github.com/exababy/sourcesdk
+	url = https://github.com/Wend4r/sourcesdk
 	branch = cs2-command_line
 [submodule "libraries/metamod-source"]
 	path = libraries/metamod-source
